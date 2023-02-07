@@ -38,7 +38,7 @@ CSI工具安装教程：http://dhalperi.github.io/linux-80211n-csitool/old_insta
 
 **Publication：** https://arxiv.org/abs/2207.07859
 
-**Code：** https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
+**Code：** https://github.com/zzx030702/Wifi_Human_Gesture_Recognition/tree/master/WiFi-CSI-Sensing-Benchmark
 
 **Dataset：**(谷歌云盘) https://drive.google.com/drive/folders/1R0R8SlVbLI1iUFQCzh_mH90H_4CW2iwt
 
@@ -107,7 +107,7 @@ UT-HAR数据集用Excel打开乱码，需要论文提供的配套代码打开
 
 **Publication：** 略
 
-**Code：** https://github.com/Guolin-Yin/FewSense
+**Code：** https://github.com/zzx030702/Wifi_Human_Gesture_Recognition/tree/master/FewSense_master
 
 **Dataset：** 无
 
